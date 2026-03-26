@@ -1,0 +1,14 @@
+Risk Scoring & Rating Reference,,,,
+,,,,
+Likelihood Scale,,,Impact Scale,
+1,Rare - May Occur In Exceptional Circumstances,,1,Negligible - Minimal Effect
+2,"Unlikely - Could Occur, But Not Expected",,2,"Minor - Small Disruption, Contained Quickly"
+3,Possible - Might occur At Some Point,,3,Moderate - Noticeable Operational Impact
+4,Likely - Will Probably Occur,,4,Major - Significant Financial Or Reputational Harm
+5,Almost Certain - Expected To Occur Regularly,,5,Catastrophic - Existential Risk To Organisation
+,,,,
+Risk Rating Matrix  (Score = Likelihood × Impact),,,,
+Critical,16 - 25,,,
+High,10 - 15,,,
+Medium,6 - 9,,,
+Low,1 - 5,,,
