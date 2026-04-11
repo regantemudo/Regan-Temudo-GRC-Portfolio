@@ -45,7 +45,7 @@ Three specific gaps increase our exposure:
 | Reputational damage | Loss of customer trust; potential churn from enterprise accounts |
 | Ransom demand | Typically £50,000–£500,000 for organisations of our size |
 
-A ransomware incident at FinTech Co could realistically result in **£500,000–£1,000,000 in total losses** when operational, regulatory, and reputational costs are combined — before any ransom payment.
+A ransomware incident at FinTech Co could realistically result in **£500,000–£1,000,000 in total losses** when operational, regulatory, and reputational costs are combined before any ransom payment.
 
 ---
 
