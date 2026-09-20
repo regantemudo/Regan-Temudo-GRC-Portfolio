@@ -117,6 +117,7 @@ Transitioning from technical cybersecurity into Governance, Risk & Compliance wi
 
 ---
 
+
 # Contact
 
 Regan Temudo  
