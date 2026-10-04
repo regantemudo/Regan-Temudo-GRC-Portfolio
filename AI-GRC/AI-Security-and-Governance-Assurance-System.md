@@ -32,16 +32,16 @@ flowchart TB
 
 ## Components
 
-- **AI Inventory** — every system's owner, purpose, model, data classification, user population,
+- **AI Inventory** : every system's owner, purpose, model, data classification, user population,
   integrations and risk tier. "We don't even know how many AI systems we run" is a real, common
   failure.
-- **AI Risk Register** — each risk, its likelihood and impact, and its treatment
-- **Control Mapping** — controls aligned to the [NIST AI RMF](https://www.nist.gov/itl/ai-risk-management-framework),
+- **AI Risk Register** : each risk, its likelihood and impact, and its treatment
+- **Control Mapping** : controls aligned to the [NIST AI RMF](https://www.nist.gov/itl/ai-risk-management-framework),
   the NIST Generative AI Profile (NIST AI 600-1), the
   [OWASP LLM Top 10](https://owasp.org/www-project-top-10-for-large-language-model-applications/)
   and relevant [MITRE ATLAS](https://atlas.mitre.org/) techniques
-- **Evidence Register** — exactly how each control is tested and what proof demonstrates it's working
-- **Executive Dashboard** — major risks, control weaknesses, overdue actions, decisions needing
+- **Evidence Register** : exactly how each control is tested and what proof demonstrates it's working
+- **Executive Dashboard** : major risks, control weaknesses, overdue actions, decisions needing
   leadership approval
 
 
@@ -50,8 +50,8 @@ flowchart TB
 
 Take one real red-team finding from Project and follow it
 all the way through: demonstrated attack → logged risk → mapped control → evidence requirement →
-remediation ticket → retest. That single thread — a technical weakness becoming a managed business
-risk — is the detail that elevates this project above a stack of spreadsheets, and it's the
+remediation ticket → retest. That single thread a technical weakness becoming a managed business
+risk is the detail that elevates this project above a stack of spreadsheets, and it's the
 strongest single artefact in the whole portfolio.
 
 
