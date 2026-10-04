@@ -48,7 +48,7 @@ flowchart TB
 
 ## The Traceability Thread
 
-Take one real red-team finding from [Project 1](../01-ai-red-teaming-lab/README.md) and follow it
+Take one real red-team finding from Project and follow it
 all the way through: demonstrated attack → logged risk → mapped control → evidence requirement →
 remediation ticket → retest. That single thread — a technical weakness becoming a managed business
 risk — is the detail that elevates this project above a stack of spreadsheets, and it's the
