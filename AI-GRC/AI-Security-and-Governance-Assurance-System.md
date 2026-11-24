@@ -1,12 +1,12 @@
 # AI Security and Governance Assurance System
+
 Connects technical security work to business decisions the skill that separates senior candidates
 from junior ones, and the one most technically-minded applicants neglect entirely.
 
 ## Business Scenario
 
-A fictional organisation, "Northwind Retail," running several AI systems: an employee chatbot, a
+A fictional organisation, "Bale Retail," running several AI systems: an employee chatbot, a
 customer-support assistant, a coding agent and a decision-support model.
-
 
 ## Architecture
 
@@ -44,15 +44,30 @@ flowchart TB
 - **Executive Dashboard** : major risks, control weaknesses, overdue actions, decisions needing
   leadership approval
 
-
-
 ## The Traceability Thread
 
-Take one real red-team finding from Project and follow it
+Take one real red-team finding and follow it
 all the way through: demonstrated attack → logged risk → mapped control → evidence requirement →
-remediation ticket → retest. That single thread a technical weakness becoming a managed business
-risk is the detail that elevates this project above a stack of spreadsheets, and it's the
+remediation ticket → retest. That single thread : a technical weakness becoming a managed business
+risk : is the detail that elevates this project above a stack of spreadsheets, and it's the
 strongest single artefact in the whole portfolio.
 
+## Portfolio Checklist
 
+- [ ] AI inventory covering all 4 fictional systems
+- [ ] Risk register with at least the finding(s) traced from Project 1
+- [ ] Control mapping table (control ↔ NIST AI RMF ↔ OWASP LLM Top 10 ↔ MITRE ATLAS)
+- [ ] Evidence register entries for each mapped control
+- [ ] Executive dashboard (even a simple one) summarising risk posture
+- [ ] The full traceability thread, documented end to end
+- [ ] Written report + short demo + one-page executive summary
+
+## Tools & References
+
+| Standard | Link |
+|---|---|
+| NIST AI Risk Management Framework (AI RMF 1.0) | https://www.nist.gov/itl/ai-risk-management-framework |
+| NIST Generative AI Profile (NIST AI 600-1) | https://www.nist.gov/itl/ai-risk-management-framework |
+| OWASP Top 10 for LLM Applications | https://owasp.org/www-project-top-10-for-large-language-model-applications/ |
+| MITRE ATLAS | https://atlas.mitre.org/ |
 
