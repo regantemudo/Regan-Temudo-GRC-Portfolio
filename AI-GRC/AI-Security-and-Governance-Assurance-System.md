@@ -47,8 +47,8 @@ flowchart TB
 ## The Traceability Thread
 
 Take one real red-team finding and follow it
-all the way through: demonstrated attack → logged risk → mapped control → evidence requirement →
-remediation ticket → retest. That single thread : a technical weakness becoming a managed business
+all the way through: demonstrated attack → logged risk -> mapped control -> evidence requirement ->
+remediation ticket -> retest. That single thread : a technical weakness becoming a managed business
 risk : is the detail that elevates this project above a stack of spreadsheets, and it's the
 strongest single artefact in the whole portfolio.
 
@@ -56,7 +56,7 @@ strongest single artefact in the whole portfolio.
 
 - [ ] AI inventory covering all 4 fictional systems
 - [ ] Risk register with at least the finding(s) traced from Project 1
-- [ ] Control mapping table (control ↔ NIST AI RMF ↔ OWASP LLM Top 10 ↔ MITRE ATLAS)
+- [ ] Control mapping table (control <-> NIST AI RMF <-> OWASP LLM Top 10 <-> MITRE ATLAS)
 - [ ] Evidence register entries for each mapped control
 - [ ] Executive dashboard (even a simple one) summarising risk posture
 - [ ] The full traceability thread, documented end to end
