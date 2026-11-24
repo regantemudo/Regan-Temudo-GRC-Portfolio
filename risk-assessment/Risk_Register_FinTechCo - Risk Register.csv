@@ -1,9 +1,4 @@
-FinTech Co - Information Security Risk Register,,,,,,,,,,,,,
-Fictional Fintech Organization (50 employees) | Aligned to ISO 27001 & NIST CSF | Last Reviewed: March 2026,,,,,,,,,,,,,
-Risk ID,Category,Risk Title,Risk Description,Affected Asset / Process,Threat Source,"Likelihood
-(1–5)","Impact
-(1–5)","Risk Score
-(L×I)",Risk Rating,Current Controls,Treatment,Recommended Action,Owner
+Risk ID,Category,Risk Title,Risk Description,Affected Asset / Process,Threat Source,Likelihood (1-5),Impact (1-5),Risk Score (LxI),Risk Rating,Current Controls,Treatment,Recommended Action,Owner
 R-001,Cyber / Data Breach,Ransomware Attack,Malicious encryption of systems and data demanding ransom payment,"Payment processing systems, customer PII",External threat actor,4,5,20,Critical,"Endpoint AV, email filtering",Mitigate,Deploy EDR solution; enforce offline backups; conduct phishing simulation,CISO
 R-002,Cyber / Data Breach,Customer Data Breach via Web App,Exploitation of web application vulnerability exposing cardholder and PII data,"Customer portal, payment API",External attacker,3,5,15,High,"WAF, input validation, TLS",Mitigate,Conduct quarterly DAST/SAST; implement bug bounty programme,AppSec Lead
 R-003,Cyber / Data Breach,Insider Data Theft,Malicious or negligent employee exfiltrates sensitive customer or financial data,"CRM, financial records, PII database",Malicious insider,2,5,10,High,"DLP tool, role-based access",Mitigate,Implement UEBA; enforce least privilege; quarterly access reviews,IT Security
